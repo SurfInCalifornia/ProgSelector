@@ -11,4 +11,4 @@ ProgSelector is a fully offline tool for Microsoft Windows that allows you to ch
 - Major releases of Visual Studio before the 2022 release do not have a corresponding version of ProgSelector
 - Only the latest major release of ProgSelector will recieve updates of any kind
 - ProgSelector 2.0.0 will be released in the near future to add support for Microsoft Visual Studio 2026
-- On the date of the release of ProgSelector 2.0.0, shortly after it is published to this repository, the ProgSelector 1.0.0 MSI installer will be removed from the repository
+- On the date of the release of ProgSelector 2.0.0, shortly after it is published to this repository, all files and folders relating to ProgSelector 1.0.0 will be removed from the repository
