@@ -1,4 +1,4 @@
-PyInstaller Compiling Instructions for ProgSelector 2.0.0:
+PyInstaller Building Instructions for ProgSelector 2.0.0:
 
 
 
